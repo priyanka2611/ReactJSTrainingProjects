@@ -1,0 +1,6 @@
+.BoxL{
+   
+    box-sizing: border-box;
+    width: 50%;
+    float: right;
+  }

@@ -1,0 +1,10 @@
+li { background: yellowgreen; }
+li:nth-child(odd) { background: coral; }
+
+.Box{
+  padding: 10px;
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  padding-top: 2%;
+}
